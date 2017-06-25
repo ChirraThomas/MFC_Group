@@ -1,0 +1,27 @@
+esempi di come vorrei fosse campito il file (excel)
+
+li ho suddivisi in Comune 1 e Comune 2
+
+solo per distinguere 2 tipologie di visura: TERRENI e FABBRICATI
+
+poiché tali visure sono strutturate in modo diverso.
+
+ti allego esempi di visure per entrambe le tipologie.
+
+il mio excel però dovrà poter distinguere (dall’ input) quali dati acquisire
+
+sia nel pdf terreni, che nel pdf Fabbricati.
+
+ 
+
+Ti allego inoltre, quale sarà l’ ordine di acquisizione (righe e colonne excel) con cui l’ Applicativo dovrà separare i dati input.
+
+ 
+
+Altra cosa che per ora non ho affrontato, è l’ output di un’ unica stringa testo (anche una riga excel che poi io copio/incollo in word)
+
+che contenga nell’ ordine:
+
+ 
+
+Nome e Cognome; luogo di nascita; data di nascita; codice fiscale; foglio con immobile/terreno; mappale/mappali…

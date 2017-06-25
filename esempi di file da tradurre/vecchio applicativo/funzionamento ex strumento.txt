@@ -1,0 +1,19 @@
+ l’ applicativo creato da un amico,
+
+affinchè tu possa vedere come funzionava
+
+ 
+
+Excel composto da 3 fogli
+
+   1 apri il pdf
+   2 seleziona TUTTO
+   3 copia
+   4 vai nell’ EXCEL
+   5 vai nel foglio “Import” e incolla
+   6 vai nel foglio “Visure” e clicca “IMPORTA”
+   7 automaticamente carica i dati (se vi sono dati non corretti, segnala anomalia)
+   8 vai nel foglio “Import” e cancelli il testo
+   9 ricominci daccapo
+   10 alla fine, nel foglio “Import”  clicca “ESPORTA”
+   11 qui dà un po’ di problemi ma, se funzionasse correttamente, mi darebbe l’ elenco completo di nominativi con le particelle di proprietà.

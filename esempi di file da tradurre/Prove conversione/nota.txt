@@ -1,0 +1,1 @@
+i file xls così sono formati da tanti TEXT FIELD piuttosto che righe e colonne della grigia. Se si salta da un text field all'altro si potrebbe estrapolare le informazioni
